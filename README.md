@@ -33,8 +33,12 @@ For downloading the application, please use the latest version available on GitH
 ## 特記事項 (Special notes)
 
 このプロジェクトはGitHubにて公開することを前提に作っていたプロジェクトではないため、今回オープンソース化するにあたり、ヒストリーなどを含まない完成したプロジェクトを載せさせていただきました。<br>
+ソースファイルの内容については以下の連絡先に個別にお問い合わせください。<br>
+sekikawa.kyou.gstrdx423@gmail.com<br>
 
-This project was not a project that was supposed to be published on GitHub, so we have put up a completed project that does not include history etc. in order to open source this time.
+This project was not a project that was supposed to be published on GitHub, so we have put up a completed project that does not include history etc. in order to open source this time.<br>
+Please contact the following for individual inquiries about the contents of the source files.<br>
+sekikawa.kyou.gstrdx423@gmail.com
 
 ## ライセンス (License)
 
